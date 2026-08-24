@@ -2,7 +2,7 @@
 title: "Solid-state device design methods for the realization of high-efficiency and -intensity electrochemical luminescence"
 collection: publications
 category: manuscripts
-permalink: /publication/2005-02-03-paper-title-number-1
+permalink: /publication/2025-02-03-paper-title-number-1
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-02-03
 venue: 'Physical Review Materials' # 'Journal 1'
