@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Bahram Jafari"
 description              : &description "Bahram Jafari's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : bahramjafarii.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : "bahramjafarii/bahramjafarii.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "bahramjafarii"
+  github           : # "bahramjafarii"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
