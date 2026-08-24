@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Ph.D. in Materials Engineering**, McGill University, 2023-present
+  * Supervisor: Kirk H. Bevan 
+* **Ph.D. in Materials Science and Engineering**, Sharif University of Technology, 2020-2023 (Withdrawn)
+  * Supervisor: Roohollah Tavakoli
+* **M.S. in Materials Science and Engineering**, Sharif University of Technology, 2016-2019
+  * Thesis: "_A phase-field model for inhomogeneous multiferroic materials_"
+  * Supervisor: Roohollah Tavakoli
+* **B.S. in Materials Science and Engineering**, University of Tabriz, 2012-2016
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See [Publications](/publications/).
   
-Talks
+Teaching Assistantships
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* **McGill University**
+  - MIME 311: Automation & Control (2024-present)
+    - Instructor: Kirk Bevan
+  - MIME 360: Phase Transformations: Solids (2025-present)
+    - Instructor: Stephen Yue
+
+* **Sharif University of Technology**
+  - Quantum Mechanics I & II, 2018-2019
+    - Instructor: Laleh Memarzadeh, Dep. Physics
+
+  - Crystallography and Symmetry in Solids, 2017-2018
+    - Instructor: Roohollah Tavakoli, Dep. Materials Science
+   
+* **University of Tabriz**
+  - Crystallography, 2013-2016
+    - Instructor: Aliakbar A. Khandar
+
+  - Engineering Mathematics, 2014-2015
+    - Instructor: Morteza Faghfouri Nematabadi
+
+  - Mechanical Properties of Materials 2014-2015
+    - Instructor: Abbas Kianvash
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* MMGESA, President (2025-Present)
+* Organizing committee, International Iran Conference on Quantum Information (2018)
