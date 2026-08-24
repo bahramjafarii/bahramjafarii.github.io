@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Investigating the reorganization properties of partially charged ions at surfaces: A model study of Ag<sup>δ+</sup> adsorbed on Au(111) "
 collection: publications
 category: manuscripts
 permalink: /publication/2026-05-04-paper-title-number-2
