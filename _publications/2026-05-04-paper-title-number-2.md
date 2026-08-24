@@ -3,7 +3,7 @@ title: "Paper Title Number 2"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-05-04-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: # 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2026-05-04
 venue: 'J. Chem. Phys. 164, 174706 (2026)'
 slidesurl: # 'https://academicpages.github.io/files/slides2.pdf'
